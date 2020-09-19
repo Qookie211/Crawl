@@ -1,0 +1,8 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.lagou.com	TRUE	/	FALSE	1631622615	X_HTTP_TOKEN	42daf4b72327b2811266800061bf5e71415983ed09
+.lagou.com	TRUE	/	FALSE	1631622615	user_trace_token	20200914203021-57f13b82-54aa-4d50-884c-b1720d8c360d
+www.lagou.com	FALSE	/	FALSE		JSESSIONID	ABAAABAABAGABFACFAF21AD47515C224C3D7FEB4C7DB546
+www.lagou.com	FALSE	/	FALSE	1600173015	SEARCH_ID	a4b7b4c26bb94e9caf16e4e336b55bd8
