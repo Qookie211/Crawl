@@ -18,10 +18,6 @@ def get_url_page(url):
     except Exception as e:
         print(e)
         return  None
-def parseCookie(string):
-    string = string.replace("document.cookie='", "")
-    clearance = string.split(';')[0]
-    return {clearance.split('=')[0]: clearance.split('=')[1]}
 def get_songid(html):
     soup = BeautifulSoup(html,'lxml')
     ul = soup.find('ul', {'class': 'f-hide'})
